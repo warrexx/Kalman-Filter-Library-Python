@@ -1,5 +1,5 @@
 
-# KALMAN FILTER for calculating Roll and Pitch angel using IMU Sensor
+#### KALMAN FILTER for calculating Roll and Pitch angel using IMU Sensor
 
 FIRHAND HAWARIE
 sept 24, 2023
